@@ -1,4 +1,4 @@
-# ROR2_Menu
+# Nicks RoR2 Menu
 Simple Risk of Rain 2 menu i use with my friends
 
 # Installation/How to Use
